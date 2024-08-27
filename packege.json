@@ -1,0 +1,14 @@
+{
+  "name": "key-system",
+  "version": "1.0.0",
+  "main": "index.js",  // Schimbă "index.js" cu numele fișierului tău principal dacă este diferit
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "uuid": "^8.3.2",
+    "moment-timezone": "^0.5.32"
+  }
+}
